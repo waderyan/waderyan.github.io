@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Book Review: Innovator's DNA
+title:      Book Review - Innovators DNA
 date:       2016-02-26
-summary:    My takeaways from Innovator's DNA
+summary:    Habits for developing better innovation skills and sparking new ideas. 
 categories: books innovation startup
 ---
 
