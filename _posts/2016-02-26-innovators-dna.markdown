@@ -1,3 +1,10 @@
+---
+layout:     post
+title:      Book Review: Innovator's DNA
+date:       2016-02-26
+summary:    My takeaways from Innovator's DNA
+categories: books innovation startup
+---
 
 # Innovator's DNA: Mastering the Five Skills of Disruptive Innovation
 
