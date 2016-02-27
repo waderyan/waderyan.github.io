@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Book Review - Innovators DNA
+title:      Innovators DNA
 date:       2016-02-26
 summary:    Habits for developing better innovation skills and sparking new ideas. 
 categories: books innovation startup
