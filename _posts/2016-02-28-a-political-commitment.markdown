@@ -3,7 +3,7 @@ layout:     post
 title:      A Political Commitment
 date:       2016-02-28
 summary:    I commit to engaging in the political debate and living my American heritage.  
-categories: books innovation startup
+categories: politics
 ---
 I consider it a great privilege to engage in the political debate and live my American heritage.
 
