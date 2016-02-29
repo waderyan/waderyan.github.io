@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      A Political Commitment
-date:       2016-02-26
+date:       2016-02-28
 summary:    I commit to engaging in the political debate and living my American heritage.  
 categories: books innovation startup
 ---
