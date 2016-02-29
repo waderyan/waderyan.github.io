@@ -1,4 +1,10 @@
-
+---
+layout:     post
+title:      Its a Marathon
+date:       2016-02-28
+summary:    Treat your work energy as a long-term play. I burned out. I ran out of gas and couldn't get to the finish line. Take time off to grind successfully.
+categories: startup work
+---
 
 I am a sprinter. I vibe with sayings like "I'll sleep when I'm dead" and "run so hard you collapse at the finish line."
 I sprint by working long hours, getting far ahead, and rarely taking time off. 
