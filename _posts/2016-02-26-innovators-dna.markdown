@@ -10,7 +10,7 @@ categories: books innovation startup
 
 ## Brief
 
-Innovator's DNA (IDNA) is filled with specific actions to improve your innovation skills. I found helpful tips for 
+[Innovator's DNA (IDNA)](http://www.amazon.com/The-Innovators-DNA-Mastering-Disruptive/dp/1491513896) is filled with specific actions to improve your innovation skills. I found helpful tips for 
 asking better questions, experimenting, and having new experiences to spark innovation. I adopted many of the authors' 
 tips into my daily habits. 
 
